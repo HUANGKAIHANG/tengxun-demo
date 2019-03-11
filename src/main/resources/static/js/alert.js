@@ -1,0 +1,1 @@
+alert("alert.js中文乱码测试");
